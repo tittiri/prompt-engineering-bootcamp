@@ -1,0 +1,1 @@
+// İhtiyaç olmadığı için şu anlık bir JavaScript kodu eklemiyoruz.
